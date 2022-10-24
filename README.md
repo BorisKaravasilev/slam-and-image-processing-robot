@@ -8,6 +8,8 @@ _ITU - Autumn 2022 - Advanced Robotics - Group 3_
 - Boris Karavasilev (karavasilev.boris@gmail.com)
 - Michele Imbriani (imbr.mic@gmailc.com)
 
+The full report containing the results of our experiments can be found [here](./report.pdf).
+
 ## Introduction
 
 The goal of this mini-project was to become familiar with different types of sensors, learn about the implementation of robotics simulations and gain experience with SLAM (Simultaneous Localization And Mapping) on a complex system consisting of multiple components. We used a Thymio II robot which was equipped with several infrared distance sensors, a lidar, a camera and a Raspberry Pi as a controller.
